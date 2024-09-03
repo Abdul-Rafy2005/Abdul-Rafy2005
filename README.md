@@ -1,6 +1,3 @@
-Here's a more engaging and properly structured GitHub README for your profile:
-
----
 
 # Hi there, I'm Abdul Rafy! 👋
 
