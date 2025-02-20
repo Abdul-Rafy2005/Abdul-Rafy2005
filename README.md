@@ -7,8 +7,8 @@ I'm a Computer Science student at FAST NUCES. When I started college, I didn't k
 
 ### My Journey
 - 🎓 **Education:** Second-year Computer Science student at FAST NUCES
-- 🌱 **Learning:** Data Structures and Algorithms (DSA), SQL, Java, HTML, CSS,  Javascript
-- 🛠️ **Skills:**  C, C++, and Java. Good in Object-Oriented Programming (OOP)
+- 🌱 **Learning:** Data Structures and Algorithms (DSA), SQL, Java, Javascript
+- 🛠️ **Skills:**  C, C++, and Java, HTML, CSS,DSA Good in Object-Oriented Programming (OOP)
 
 ### Interests
 - 💻 **Tech:** I'm fascinated by web development and eager to collaborate on exciting projects.
