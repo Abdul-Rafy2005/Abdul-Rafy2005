@@ -1,20 +1,18 @@
+# 💫 About Me:
+💫 Abdul Rafy<br><br>“Building stuff that actually works… most of the time.”<br><br>👨‍💻 What I'm Doing<br><br>Locked into the web dev + backend pipeline:<br><br>Learning Java & Spring Boot (currently in progress)<br><br>Recently built a heavy backend project in .NET MVC<br><br>Experimenting with full-stack flows and real-world architectures<br><br>🚧 What I'm Building<br><br>Right now I’m focusing on:<br><br>Solid backend logic<br><br>Clean, simple APIs<br><br>Server-side rendering & MVC patterns<br><br>Mini projects to reinforce concepts through actual work<br><br>🧠 What I Work With<br><br>This is the toolbox I actually use:<br><br>.NET MVC<br><br>Java, Spring Boot (ongoing)<br><br>JSP, Hibernate<br><br>HTML, CSS, Bootstrap<br><br>JavaScript<br><br>SQL, MongoDB<br><br>Python, Tkinter, Matplotlib<br><br>🎯 What’s Next<br><br>Mastering Spring Boot ecosystems (Spring Data, Spring MVC, APIs)<br><br>Getting better at backend architecture<br><br>More real-world .NET + Java projects<br><br>Cleaner code, fewer headaches
 
-# Hi there, I'm Abdul Rafy! 👋
 
-## About Me
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdul Rafy ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafy_kzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-rafy-b11829315) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kzsahab659@gmail.com) 
 
-I'm a Computer Science student at FAST NUCES. When I started college, I didn't know much about programming, but as I go deep into it, I found a true interest. Now, I’m in my second year, exploring various concepts in web development and in Python alongside my academic studies.
-
-### My Journey
-- 🎓 **Education:** Second-year Computer Science student at FAST NUCES
-- 🌱 **Learning:** Data Structures and Algorithms (DSA), Python, Javascript
-- 🛠️ **Skills:**  C, C++, and Java, HTML, CSS, SQL, Good in DSA
-
-### Interests
-- 💻 **Tech:** I'm interested a bit in web development and in AI and eager to collaborate on exciting projects.
-- 🏏 **Hobbies:** I love cricket and enjoy playing it in my free time.
-
-### Let's Connect
-- 🌐 **LinkedIn:** [Abdul Rafy](https://www.linkedin.com/in/abdul-rafy-b11829315)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abdul-Rafy2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Abdul-Rafy2005&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafy2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Abdul-Rafy2005&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
