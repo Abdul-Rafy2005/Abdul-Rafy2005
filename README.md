@@ -1,25 +1,24 @@
-# 💫 About Me:
-💫 Abdul Rafy<br><br>
-“Building stuff that actually works… most of the time.”<br><br>
+# 💫 About Me
+
+💫 Abdul Rafy
+
+"I build stuff that works… most of the time."
 
 👨‍💻 What I'm Doing<br><br>
-Locked into the web dev + backend pipeline:<br><br>
-Learning Java & Spring Boot (currently in progress)<br>
-Recently finished a big backend project in .NET MVC<br>
-Experimenting with full-stack flows and real projects<br><br>
+Working on web development and backend. Learning Java & Spring Boot. Recently finished a big backend project in .NET MVC. Trying out full-stack ideas and real projects to get better.<br><br>
 
 🚧 What I'm Building<br><br>
-Right now I’m focusing on:<br><br>
-Solid backend logic<br>
-Clean, simple APIs<br>
-Server-side rendering & MVC patterns<br>
+Strong backend logic<br>
+Clean and simple APIs<br>
+Server-side rendering and MVC patterns<br>
 Small projects to practice and learn<br><br>
 
-🎯 What’s Next<br><br>
-Mastering Spring Boot ecosystem (Spring Data, Spring MVC, APIs)<br>
-Improving backend design skills<br>
-More real-world .NET + Java projects<br>
-Writing cleaner code
+🎯 Next Goals<br><br>
+Get better at Spring Boot<br>
+Improve backend design skills<br>
+Work on more real projects in .NET and Java<br>
+Write cleaner code
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdul Rafy ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafy_kzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-rafy-b11829315) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kzsahab659@gmail.com) 
