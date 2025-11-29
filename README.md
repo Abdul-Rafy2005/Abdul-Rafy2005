@@ -1,23 +1,14 @@
-# About Me
-
-Abdul Rafy
+Hii there, I'm Abdul Rafy.
 
 "I build stuff that works… most of the time."
 
-👨‍💻 What I'm Doing<br><br>
-Working on web development and backend. Learning Java & Spring Boot. Recently finished a big backend project in .NET MVC. Trying out full-stack ideas and real projects to get better.<br><br>
+<br><br>
+Im Working on web development and backend. Learning Java & Spring Boot. Recently finished a big backend project in .NET MVC. Trying out full-stack ideas and real projects to get better.<br><br>
 
 🚧 What I'm Building<br><br>
 Strong backend logic<br>
 Clean and simple APIs<br>
-Server-side rendering and MVC patterns<br>
-Small projects to practice and learn<br><br>
-
-🎯 Next Goals<br><br>
-Get better at Spring Boot<br>
-Improve backend design skills<br>
-Work on more real projects in .NET and Java<br>
-Write cleaner code
+Server-side rendering and MVC patterns<br><br>
 
 
 ## 🌐 Socials:
