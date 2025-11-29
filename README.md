@@ -1,4 +1,4 @@
-#Hii there, I'm Abdul Rafy.
+Hii there, I'm Abdul Rafy.
 
 "I build stuff that works… most of the time."
 
