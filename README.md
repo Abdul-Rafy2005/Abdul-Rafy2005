@@ -1,7 +1,6 @@
 Hii there, I'm Abdul Rafy.
 
 "I build stuff that works… most of the time."
-
 <br><br>
 Im Working on web development and backend. Learning Java & Spring Boot. Recently finished a big backend project in .NET MVC. Trying out full-stack ideas and real projects to get better.<br><br>
 
@@ -9,7 +8,6 @@ Im Working on web development and backend. Learning Java & Spring Boot. Recently
 Strong backend logic<br>
 Clean and simple APIs<br>
 Server-side rendering and MVC patterns<br><br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafy_kzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-rafy-b11829315) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kzsahab659@gmail.com) 
