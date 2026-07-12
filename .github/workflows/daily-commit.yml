@@ -9,22 +9,23 @@ jobs:
   maybe-run:
     runs-on: ubuntu-latest
     steps:
-      - name: Random gate (roughly once per day)
+      - name: Random gate
         id: gate
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "run=true" >> $GITHUB_OUTPUT
+            echo "run=true" >> "$GITHUB_OUTPUT"
           else
             ROLL=$((RANDOM % 96))
             if [ "$ROLL" -eq 0 ]; then
-              echo "run=true" >> $GITHUB_OUTPUT
+              echo "run=true" >> "$GITHUB_OUTPUT"
             else
-              echo "run=false" >> $GITHUB_OUTPUT
+              echo "run=false" >> "$GITHUB_OUTPUT"
             fi
           fi
 
-      - uses: actions/checkout@v4
+      - name: Checkout repo
         if: steps.gate.outputs.run == 'true'
+        uses: actions/checkout@v4
 
       - name: Set up Python
         if: steps.gate.outputs.run == 'true'
@@ -32,34 +33,28 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Do meaningful work + commit N times
+      - name: Do meaningful work and commit
         if: steps.gate.outputs.run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           mkdir -p logs
-          N=$(( (RANDOM % 5) + 1 ))
 
-          for i in $(seq 1 $N); do
+          N=$(( (RANDOM % 5) + 1 ))
+          echo "Making $N commits today"
+
+          for i in $(seq 1 "$N"); do
             TODAY=$(date -u +"%Y-%m-%d %H:%M UTC")
             TIP=$(python3 scripts/pick_tip.py)
 
-            echo "### $TODAY" >> logs/daily-log.md
-            echo "$TIP" >> logs/daily-log.md
-            echo "" >> logs/daily-log.md
+            {
+              echo "### $TODAY"
+              echo "$TIP"
+              echo ""
+            } >> logs/daily-log.md
 
-            python3 - <<EOF
-import json, os
-path = "logs/stats.json"
-data = {"total_entries": 0}
-if os.path.exists(path):
-    with open(path) as f:
-        data = json.load(f)
-data["total_entries"] = data.get("total_entries", 0) + 1
-with open(path, "w") as f:
-    json.dump(data, f, indent=2)
-EOF
+            python3 scripts/update_stats.py
 
             git add logs/daily-log.md logs/stats.json
             git commit -m "Log entry $i/$N: $(date -u +%Y-%m-%d)" || echo "Nothing new to commit"
