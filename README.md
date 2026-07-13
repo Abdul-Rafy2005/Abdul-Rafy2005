@@ -15,8 +15,7 @@ I'm a junior backend developer working with Java Spring Boot and ASP.NET MVC. I 
 ### 🔗 Featured projects
 - **[PitWall](https://github.com/Abdul-Rafy2005/pitwall)** — Live F1 telemetry platform with React, Spring Boot, and Groq AI race insights → [live demo](https://pitwall-mocha.vercel.app/)
 - **[PulseFlow](https://github.com/Abdul-Rafy2005/pulseflow)** — Event-driven analytics backend with RabbitMQ, Redis, and live WebSocket dashboards
-- **[HomeNest](https://github.com/Abdul-Rafy2005/homenest-app)** — Airbnb-style rental platform built with Spring Boot and Hibernate
-- **[GameHub](https://github.com/Abdul-Rafy2005/-GameHub-store)** — Digital game distribution platform in ASP.NET MVC
+- **[Anvil](https://github.com/Abdul-Rafy2005/Anvil)** — Distributed job processing platform with Spring Boot, Redis queues, real-time WebSocket tracking, and a React admin dashboard
 
 More on my **[portfolio](https://abdulrafy-dev.vercel.app)** →
 
