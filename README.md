@@ -49,7 +49,6 @@ More on my **[portfolio](https://abdulrafy-dev.vercel.app)** →
     <td><img height="170px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdul-Rafy2005&layout=compact&theme=dark" /></td>
   </tr>
 </table>
-<img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards/master/profile-node-star/Abdul-Rafy2005/dark_animated.svg" />
 </div>
 
 
