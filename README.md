@@ -45,13 +45,8 @@ More on my **[portfolio](https://abdulrafy-dev.vercel.app)** →
 <div align="center">
 <table>
   <tr>
-    <td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafy2005&show_icons=true&theme=dark" /></td>
-    <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafy2005&layout=compact&theme=dark" /></td>
+    <td><img height="180px" src="https://github-stats-extended.vercel.app/api?username=Abdul-Rafy2005&show_icons=true&theme=dark" /></td>
+    <td><img height="170px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdul-Rafy2005&layout=compact&theme=dark" /></td>
   </tr>
 </table>
 </div>
-
-## 📈 Activity Overview
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdul-Rafy2005&theme=github_dark" alt="Activity Overview"/>
-</p>
