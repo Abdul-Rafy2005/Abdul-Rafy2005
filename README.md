@@ -51,3 +51,5 @@ More on my **[portfolio](https://abdulrafy-dev.vercel.app)** →
 </table>
 </div>
 
+
+<img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards/master/profile-node-star/Abdul-Rafy2005/dark_animated.svg" />
