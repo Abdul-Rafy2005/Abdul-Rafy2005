@@ -51,6 +51,5 @@ More on my **[portfolio](https://abdulrafy-dev.vercel.app)** →
 </table>
 </div>
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Abdul-Rafy2005)](https://github.com/LordDashMe/github-contribution-stats/)
 
 
