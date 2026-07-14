@@ -47,7 +47,10 @@ More on my **[portfolio](https://abdulrafy-dev.vercel.app)** →
   <tr>
     <td><img height="170px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdul-Rafy2005&layout=compact&theme=dark" /></td>
   </tr>
+  <tr>
+    <td><img src="https://streak-stats.demolab.com/?user=Abdul-Rafy2005&theme=dark&hide_border=true" alt="GitHub Streak"/</td>
+  </tr>
 </table>
-<img src="https://streak-stats.demolab.com/?user=Abdul-Rafy2005&theme=dark&hide_border=true" alt="GitHub Streak"/>
+
 </div>
 
