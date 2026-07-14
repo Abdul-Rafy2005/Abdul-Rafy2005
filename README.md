@@ -49,7 +49,8 @@ More on my **[portfolio](https://abdulrafy-dev.vercel.app)** →
     <td><img height="170px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdul-Rafy2005&layout=compact&theme=dark" /></td>
   </tr>
 </table>
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Rafy2005&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 </div>
 
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Rafy2005&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
