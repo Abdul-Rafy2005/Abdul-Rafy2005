@@ -5,7 +5,7 @@
   <a href="https://abdulrafy-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-abdulrafy--dev.vercel.app-FF4D5A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-I'm a junior backend developer working with Java Spring Boot and ASP.NET MVC. I build real-time and data-driven applications, design REST APIs, integrate external services, and put together clean, responsive frontends. Currently sharpening my backend and AI-application skills through FlyRank AI's Backend AI Engineering program.
+I'm a junior backend developer working with Java Spring Boot and ASP.NET MVC. I build real-time and data-driven applications, design REST APIs, integrate external services, and put together clean, responsive frontends. Currently sharpening my backend.
 
 ### 🚧 What I'm building
 - Strong backend logic and clean, well-structured APIs
