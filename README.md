@@ -52,7 +52,3 @@ More on my **[portfolio](https://abdulrafy-dev.vercel.app)** →
 <img src="https://streak-stats.demolab.com/?user=Abdul-Rafy2005&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-## Activity Overview
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdul-Rafy2005&theme=github_dark" alt="Activity Overview"/>
-</p>
