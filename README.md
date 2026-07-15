@@ -40,16 +40,3 @@ More on my **[portfolio](https://abdulrafy-dev.vercel.app)** →
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<h1 align="center">GitInsight</h1>
-<div align="center">
-<table>
-  <tr>
-    <td><img src="https://streak-stats.demolab.com/?user=Abdul-Rafy2005&theme=dark&hide_border=true&v=2" /></td>
-    <td><img height="170px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdul-Rafy2005&layout=compact&theme=dark" /></td>
-  </tr>
-</table>
-</div>
-
-
-
