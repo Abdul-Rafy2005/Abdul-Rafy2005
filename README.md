@@ -4,7 +4,7 @@
   <a href="https://abdulrafy-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-abdulrafy--dev.vercel.app-FF4D5A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-I'm a junior backend developer working with Java Spring Boot and ASP.NET MVC.
+I'm a junior backend developer working with Java Spring Boot.
 
 ### 🔗 Featured projects
 - **[PitWall](https://github.com/Abdul-Rafy2005/pitwall)** — Live F1 telemetry platform with React, Spring Boot, and Groq AI race insights → [live demo](https://pitwall-mocha.vercel.app/)
