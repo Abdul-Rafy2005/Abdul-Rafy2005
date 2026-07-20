@@ -1,16 +1,10 @@
 <h1 align="center">Hi, I'm Abdul Rafy 👋</h1>
-<p align="center"><i>"I build stuff that works… most of the time."</i></p>
 
 <p align="center">
   <a href="https://abdulrafy-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-abdulrafy--dev.vercel.app-FF4D5A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-I'm a junior backend developer working with Java Spring Boot and ASP.NET MVC. I build real-time and data-driven applications, design REST APIs, integrate external services, and put together clean, responsive frontends. Currently sharpening my backend.
-
-### 🚧 What I'm building
-- Strong backend logic and clean, well-structured APIs
-- Real-time systems using WebSocket and event-driven architecture
-- Server-side rendering and MVC patterns
+I'm a junior backend developer working with Java Spring Boot and ASP.NET MVC.
 
 ### 🔗 Featured projects
 - **[PitWall](https://github.com/Abdul-Rafy2005/pitwall)** — Live F1 telemetry platform with React, Spring Boot, and Groq AI race insights → [live demo](https://pitwall-mocha.vercel.app/)
