@@ -6,7 +6,8 @@
 
 **Java Developer** &middot; Pakistan 
 
-I build systems that scale from REST APIs and microservices with Spring Boot to event-driven pipelines with Kafka and RabbitMQ.
+I build systems that scale from REST APIs and microservices with Spring Boot to event-driven pipelines with Kafka and RabbitMQ. I care about scalable architecture, data governance, and making systems talk to each other. I also
+like contributing to open source
 
 
 ### Stack
