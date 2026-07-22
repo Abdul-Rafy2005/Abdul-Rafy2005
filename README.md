@@ -9,6 +9,7 @@
 I build systems that scale from REST APIs and microservices with Spring Boot to event-driven pipelines with Kafka and RabbitMQ. I care about scalable architecture, data governance, and making systems talk to each other. I also
 like contributing to open source
 
+---
 
 ### Stack
 
@@ -41,6 +42,7 @@ like contributing to open source
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
+---
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafy_kzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-rafy-b11829315) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulrafykz@gmail.com)
