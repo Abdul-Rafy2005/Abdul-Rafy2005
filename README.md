@@ -4,17 +4,7 @@
   <a href="https://abdulrafy-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-abdulrafy--dev.vercel.app-FF4D5A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-I'm a backend developer building production-oriented Java platforms with Spring Boot.
-
-### 🚀 Featured Products
-
-- **[Argent](https://github.com/Abdul-Rafy2005/Argent)** — Developer-first financial infrastructure platform for wallets, ledgering, and transaction processing.
-- **[Anvil](https://github.com/Abdul-Rafy2005/Anvil)** — Distributed job orchestration platform with scalable workers, scheduling, retries, and real-time monitoring.
-- **[Apex](https://github.com/Abdul-Rafy2005/Apex)** — Real-time paper trading platform with portfolio analytics, market simulation, and live WebSocket updates.
-- **[PitWall](https://github.com/Abdul-Rafy2005/pitwall)** — Live F1 telemetry platform with React, Spring Boot, and Groq AI race insights → [live demo](https://pitwall-mocha.vercel.app/)
-
-More on my **[portfolio](https://abdulrafy-dev.vercel.app)** →
-
+I build systems that scale from REST APIs and microservices with Spring Boot to event-driven pipelines with Kafka and RabbitMQ.
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafy_kzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-rafy-b11829315) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulrafykz@gmail.com)
 
