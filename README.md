@@ -4,7 +4,7 @@
   <a href="https://abdulrafy-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-abdulrafy--dev.vercel.app-FF4D5A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-**Java Developer** &middot;
+**Java Developer** &middot; Pakistan 
 
 I build systems that scale from REST APIs and microservices with Spring Boot to event-driven pipelines with Kafka and RabbitMQ.
 
